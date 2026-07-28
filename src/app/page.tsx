@@ -329,6 +329,7 @@ export default function Home() {
           />
           <p className="text-sm text-yellow-400 font-bold">🔞 小众精品 / 擦边资源 / 未删减版</p>
           <p className="text-xs text-gray-400 mt-1">进群找群主，资源更全更新更快</p>
+          <p className="text-sm text-white font-bold mt-2">Q群号：{QQ_GROUP}</p>
           <a
             href={QQ_GROUP_LINK}
             target="_blank"

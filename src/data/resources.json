@@ -180,19 +180,19 @@
     "description": "关心则乱小说改编 古装武侠剧"
   },
   {
-    "id": "tade-shengyan-2026",
-    "name": "她的盛焰",
+    "id": "tade-shengyan-2025",
+    "name": "她的盛宴",
     "category": "热播剧",
-    "tags": ["都市", "职场", "2026"],
+    "tags": ["民国", "悬疑", "重生"],
     "quality": "1080P",
     "episodes": "",
     "status": "更新中",
-    "year": 2026,
+    "year": 2025,
     "platform": "",
-    "cast": "马思纯/宁理/袁姗姗",
+    "cast": "何泓姗/谢彬彬",
     "baidu": null,
     "quark": null,
-    "description": "都市职场剧 腾讯视频"
+    "description": "民国悬疑剧 重生复仇"
   },
   {
     "id": "jiaoutiancheng-2026",
@@ -420,18 +420,18 @@
     "description": "经典盗墓探险剧"
   },
   {
-    "id": "youmingzhen",
-    "name": "邮明镇",
-    "category": "小众",
-    "tags": ["悬疑", "惊悚"],
+    "id": "congmingzhen-2026",
+    "name": "聪明镇",
+    "category": "外剧",
+    "tags": ["台剧", "恐怖", "惊悚"],
     "quality": "1080P",
     "episodes": "",
-    "status": "已完结",
-    "year": 2024,
+    "status": "更新中",
+    "year": 2026,
     "platform": "",
-    "cast": "",
+    "cast": "梁咏琪/陈妍霏",
     "baidu": null,
     "quark": null,
-    "description": "小众悬疑剧"
+    "description": "伊藤润二漫画改编 Netflix台湾独播"
   }
 ]

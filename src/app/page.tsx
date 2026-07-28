@@ -278,9 +278,7 @@ export default function Home() {
                     </a>
                   </div>
                 )}
-                {!r.baidu && !r.quark && (
-                  <p className="text-xs text-gray-500">💎 小众精品资源，请加群获取: {QQ_GROUP}</p>
-                )}
+
               </div>
               <div className="mt-3 flex gap-2">
                 {r.baidu && (

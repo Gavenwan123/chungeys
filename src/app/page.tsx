@@ -205,6 +205,10 @@ export default function Home() {
             <div className="mt-2 p-2 bg-yellow-950/50 rounded text-xs text-yellow-300 font-medium">
               💎 进群找群主，资源更全更新更快
             </div>
+            <div className="mt-2 p-2 bg-gray-800/80 rounded text-center">
+              <span className="text-sm text-white font-bold">Q群号：{QQ_GROUP}</span>
+              <a href={QQ_GROUP_LINK} target="_blank" rel="noopener noreferrer" className="ml-3 px-3 py-1 bg-yellow-500 hover:bg-yellow-400 text-gray-900 text-xs font-bold rounded transition">点击加群</a>
+            </div>
           </div>
         </div>
       )}

@@ -322,6 +322,11 @@ export default function Home() {
       {/* Footer */}
       <footer className="max-w-[1400px] mx-auto px-4 py-8 text-center border-t border-gray-800 mt-8">
         <div className="bg-gray-900 rounded-xl p-4 mb-4 border border-gray-800">
+          <img
+            src="/qq-group.png"
+            alt="春哥影视 Q群 114285283"
+            className="w-40 mx-auto rounded-lg mb-3"
+          />
           <p className="text-sm text-yellow-400 font-bold">🔞 小众精品 / 擦边资源 / 未删减版</p>
           <p className="text-xs text-gray-400 mt-1">进群找群主，资源更全更新更快</p>
           <a

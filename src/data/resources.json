@@ -9,7 +9,7 @@
       "2026"
     ],
     "quality": "1080P",
-    "episodes": "更19集",
+    "episodes": "更21集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -30,7 +30,7 @@
       "励志"
     ],
     "quality": "1080P",
-    "episodes": "更5集",
+    "episodes": "更6集",
     "status": "更新中",
     "year": 2025,
     "platform": "",
@@ -115,7 +115,7 @@
       "职场"
     ],
     "quality": "1080P",
-    "episodes": "更11集",
+    "episodes": "更12集",
     "status": "更新中",
     "year": 2025,
     "platform": "",
@@ -247,7 +247,7 @@
       "2026"
     ],
     "quality": "1080P",
-    "episodes": "更20集",
+    "episodes": "更14集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -1044,5 +1044,70 @@
     },
     "quark": null,
     "description": "宋慈探案系列"
+  },
+  {
+    "id": "xuanan-2025",
+    "name": "悬案",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "悬疑",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "17集全",
+    "status": "已完结",
+    "year": 2025,
+    "platform": "",
+    "cast": "王传君/江奇霖/杨烁/郎月婷/岳云鹏",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1mjCjUmDR_M1wq9SR51hvMQ",
+      "code": "seqj"
+    },
+    "quark": null,
+    "description": "悬疑犯罪剧"
+  },
+  {
+    "id": "sudilianren-taiju",
+    "name": "宿敌恋人",
+    "category": "外剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "泰剧"
+    ],
+    "quality": "1080P",
+    "episodes": "10集全",
+    "status": "已完结",
+    "year": 2025,
+    "platform": "",
+    "cast": "普洛伊湘普·素帕莎/芭莉雅皮·余",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/17IfE4v3SrPF6Y18CdlHkaA",
+      "code": "kxjd"
+    },
+    "quark": null,
+    "description": "泰剧 同性爱情"
+  },
+  {
+    "id": "aiqing-meiyoushenhua-2025",
+    "name": "爱情没有神话",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "爱情"
+    ],
+    "quality": "1080P",
+    "episodes": "37集全",
+    "status": "已完结",
+    "year": 2025,
+    "platform": "",
+    "cast": "唐嫣/赵又廷/杨采钰/冯绍峰",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/11-pn6zJgsVQp3MufmiSEnA",
+      "code": "y9i6"
+    },
+    "quark": null,
+    "description": "都市爱情剧"
   }
 ]

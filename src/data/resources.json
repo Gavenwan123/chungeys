@@ -1,5 +1,27 @@
 [
   {
+    "id": "jiumen2-2026",
+    "name": "九门2",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "奇幻",
+      "冒险"
+    ],
+    "quality": "1080P",
+    "episodes": "更4集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "陈伟霆/陈瑶/曾舜晞/王茂蕾/王奕婷/李乃文/释小龙",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1V8VWsfDlUm1NhfIO2dMB0Q",
+      "code": "a5m2"
+    },
+    "quark": null,
+    "description": "盗墓笔记宇宙续作"
+  },
+  {
     "id": "yutingyao-2025",
     "name": "御廷谣",
     "category": "热播剧",
@@ -1237,5 +1259,111 @@
     },
     "quark": null,
     "description": "都市爱情剧"
+  },
+  {
+    "id": "dongdagaowu-2025",
+    "name": "东大高武学院",
+    "category": "动漫",
+    "tags": [
+      "动作",
+      "动画",
+      "奇幻"
+    ],
+    "quality": "1080P",
+    "episodes": "更4集",
+    "status": "更新中",
+    "year": 2025,
+    "platform": "",
+    "cast": "云惟一/万舒心/刘琮/张惠霖/李铮",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1xgB5NP2JFKwnC0tnE_vV-Q",
+      "code": "grug"
+    },
+    "quark": null,
+    "description": "动漫 动作奇幻"
+  },
+  {
+    "id": "churenmei-youji",
+    "name": "楚人美游记",
+    "category": "动漫",
+    "tags": [
+      "志怪",
+      "法术"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2025,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1hQKA0Oc-JJIQ4XxdY13YmQ",
+      "code": "j1h2"
+    },
+    "quark": null,
+    "description": "动漫 志怪"
+  },
+  {
+    "id": "shen-de-youxi",
+    "name": "神的游戏",
+    "category": "动漫",
+    "tags": [
+      "AI真人格斗番"
+    ],
+    "quality": "1080P",
+    "episodes": "更7集",
+    "status": "更新中",
+    "year": 2025,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1IpJblba6yx_ULc6AQ9FKzQ",
+      "code": "7zcj"
+    },
+    "quark": null,
+    "description": "动漫 AI格斗"
+  },
+  {
+    "id": "tianting-sandafanguzi",
+    "name": "天庭三大反骨仔系列",
+    "category": "动漫",
+    "tags": [
+      "志怪",
+      "法术"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2025,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1xQB5aGDByNbjg5T13pwr7w",
+      "code": "eui7"
+    },
+    "quark": null,
+    "description": "动漫 志怪系列"
+  },
+  {
+    "id": "xiao-dongman-2025",
+    "name": "枭",
+    "category": "动漫",
+    "tags": [
+      "真人AI",
+      "志怪",
+      "法术"
+    ],
+    "quality": "1080P",
+    "episodes": "更4集",
+    "status": "更新中",
+    "year": 2025,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1Ll1Z9gnTo6af9Z7H3zOLBw",
+      "code": "vrby"
+    },
+    "quark": null,
+    "description": "动漫 真人AI志怪"
   }
 ]

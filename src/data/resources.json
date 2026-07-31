@@ -32,7 +32,7 @@
     "quality": "1080P",
     "episodes": "更8集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "吴谨言/陈哲远/梁永棋/赵昭仪",
     "baidu": {
@@ -48,8 +48,7 @@
     "category": "热播剧",
     "tags": [
       "民国",
-      "虐恋",
-      "2026"
+      "虐恋"
     ],
     "quality": "1080P",
     "episodes": "更23集",
@@ -69,9 +68,8 @@
     "name": "兵自风中来",
     "category": "热播剧",
     "tags": [
-      "军旅",
-      "热血",
-      "2026"
+      "剧情",
+      "动作"
     ],
     "quality": "1080P",
     "episodes": "更18集",
@@ -97,7 +95,7 @@
     "quality": "1080P",
     "episodes": "更20集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "张赫/徐轸轸",
     "baidu": {
@@ -120,7 +118,7 @@
     "quality": "1080P",
     "episodes": "更3集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "齐璇/小连杀/魏一凡/朱祎",
     "baidu": {
@@ -142,7 +140,7 @@
     "quality": "1080P",
     "episodes": "更4集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "云惟一/万舒心/刘琮/张惠霖/李铮",
     "baidu": {
@@ -155,15 +153,15 @@
   {
     "id": "geinimengxiang-hanju",
     "name": "给你梦想",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
-      "韩剧",
-      "励志"
+      "喜剧",
+      "爱情"
     ],
     "quality": "1080P",
     "episodes": "更6集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "黄寅烨/李惠利",
     "baidu": {
@@ -176,7 +174,7 @@
   {
     "id": "huimeng-hunli-hanju",
     "name": "绘梦婚礼",
-    "category": "外剧",
+    "category": "泰剧",
     "tags": [
       "韩剧",
       "爱情"
@@ -184,7 +182,7 @@
     "quality": "1080P",
     "episodes": "更6集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "邝玲玲/珙恩娜帕·瑟塔拉塔那彭",
     "baidu": {
@@ -197,16 +195,15 @@
   {
     "id": "maogusr-hanju",
     "name": "毛骨悚然的恋爱",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
-      "韩剧",
-      "悬疑",
+      "喜剧",
       "爱情"
     ],
     "quality": "1080P",
     "episodes": "更4集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "朴恩斌/梁世宗/邕圣祐",
     "baidu": {
@@ -219,16 +216,15 @@
   {
     "id": "gongyu-heifengbao-hanju",
     "name": "公寓黑风暴",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
-      "韩剧",
-      "悬疑",
-      "犯罪"
+      "剧情",
+      "喜剧"
     ],
     "quality": "1080P",
     "episodes": "更6集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "池晟/河允庆/朴炳垠/文素利/郑顺元",
     "baidu": {
@@ -241,16 +237,16 @@
   {
     "id": "hunyin-zhihou-hanju",
     "name": "婚姻之后",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
-      "韩剧",
+      "剧情",
       "爱情",
-      "婚姻"
+      "惊悚"
     ],
     "quality": "1080P",
     "episodes": "更8集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "南宫珉/李雪",
     "baidu": {
@@ -263,16 +259,17 @@
   {
     "id": "sharengzhe-gouwu2-hanju",
     "name": "杀人者的购物中心2",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
-      "韩剧",
+      "剧情",
+      "动作",
       "悬疑",
-      "犯罪"
+      "惊悚"
     ],
     "quality": "1080P",
     "episodes": "更4集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "李栋旭/金慧埈/赵汉善/玄理",
     "baidu": {
@@ -285,16 +282,15 @@
   {
     "id": "zuiyuai-hanju",
     "name": "罪与爱",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
-      "韩剧",
-      "犯罪",
-      "爱情"
+      "短片",
+      "同性"
     ],
     "quality": "1080P",
     "episodes": "更8集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "金贤叙/郑明哲",
     "baidu": {
@@ -314,7 +310,7 @@
     "quality": "1080P",
     "episodes": "更7集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "",
     "baidu": {
@@ -330,13 +326,12 @@
     "category": "动漫",
     "tags": [
       "真人AI",
-      "志怪",
-      "法术"
+      "志怪 #法术"
     ],
     "quality": "1080P",
     "episodes": "更4集",
     "status": "更新中",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "",
     "baidu": {
@@ -351,13 +346,12 @@
     "name": "楚人美游记",
     "category": "动漫",
     "tags": [
-      "志怪",
-      "法术"
+      "志怪 #法术"
     ],
     "quality": "1080P",
     "episodes": "",
     "status": "已完结",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "",
     "baidu": {
@@ -372,13 +366,12 @@
     "name": "天庭三大反骨仔系列",
     "category": "动漫",
     "tags": [
-      "志怪",
-      "法术"
+      "志怪 #法术"
     ],
     "quality": "1080P",
     "episodes": "",
     "status": "已完结",
-    "year": 2025,
+    "year": 2026,
     "platform": "",
     "cast": "",
     "baidu": {
@@ -1267,7 +1260,7 @@
     "tags": [
       "剧情",
       "爱情",
-      "泰剧"
+      "同性"
     ],
     "quality": "1080P",
     "episodes": "10集全",
@@ -1347,11 +1340,10 @@
   {
     "id": "duoming-xuyuan-hanju",
     "name": "夺命许愿",
-    "category": "外剧",
+    "category": "韩剧",
     "tags": [
       "剧情",
-      "恐怖",
-      "韩剧"
+      "恐怖"
     ],
     "quality": "1080P",
     "episodes": "8集全",

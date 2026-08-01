@@ -364,6 +364,27 @@
     "description": "动漫 真人AI志怪"
   },
   {
+    "id": "shashoumami-hanju-2026",
+    "name": "杀手妈咪",
+    "category": "韩剧",
+    "tags": [
+      "剧情",
+      "惊悚"
+    ],
+    "quality": "1080P",
+    "episodes": "更1集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "孔晓振/郑浚远/李相二/成东日",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1nduXuhFEN-emGjxKdEnY-A",
+      "code": "tsum"
+    },
+    "quark": null,
+    "description": "韩剧 惊悚"
+  },
+  {
     "id": "churenmei-youji",
     "name": "楚人美游记",
     "category": "动漫",

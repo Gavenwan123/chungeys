@@ -9,7 +9,7 @@
       "冒险"
     ],
     "quality": "1080P",
-    "episodes": "更6集",
+    "episodes": "更8集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -72,7 +72,7 @@
       "动作"
     ],
     "quality": "1080P",
-    "episodes": "更20集",
+    "episodes": "更22集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -93,8 +93,8 @@
       "权谋"
     ],
     "quality": "1080P",
-    "episodes": "更20集",
-    "status": "更新中",
+    "episodes": "24集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
     "cast": "张赫/徐轸轸",
@@ -104,6 +104,28 @@
     },
     "quark": null,
     "description": "古装权谋剧"
+  },
+  {
+    "id": "zhaoyanggongzhu-2026",
+    "name": "昭阳公主",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "更14集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "李宏毅/孔雪儿/刘旭威/林小宅",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1C1Dpxyv71CYv6Y7P5TvTDg",
+      "code": "z3ta"
+    },
+    "quark": null,
+    "description": "古装爱情剧"
   },
   {
     "id": "lipanda-dongman-2025",
@@ -129,28 +151,6 @@
     "description": "动漫 喜剧动作"
   },
   {
-    "id": "zhaoyanggongzhu-2026",
-    "name": "昭阳公主",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情",
-      "古装"
-    ],
-    "quality": "1080P",
-    "episodes": "更14集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "李宏毅/孔雪儿/刘旭威/林小宅",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1C1Dpxyv71CYv6Y7P5TvTDg",
-      "code": "z3ta"
-    },
-    "quark": null,
-    "description": "古装爱情剧"
-  },
-  {
     "id": "dongdagaowu-2025",
     "name": "东大高武学院",
     "category": "动漫",
@@ -171,6 +171,27 @@
     },
     "quark": null,
     "description": "动漫 动作奇幻"
+  },
+  {
+    "id": "shashoumami-hanju-2026",
+    "name": "杀手妈咪",
+    "category": "韩剧",
+    "tags": [
+      "剧情",
+      "惊悚"
+    ],
+    "quality": "1080P",
+    "episodes": "更1集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "孔晓振/郑浚远/李相二/成东日",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1nduXuhFEN-emGjxKdEnY-A",
+      "code": "tsum"
+    },
+    "quark": null,
+    "description": "韩剧 惊悚"
   },
   {
     "id": "geinimengxiang-hanju",
@@ -223,7 +244,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更4集",
+    "episodes": "更5集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -244,7 +265,7 @@
       "喜剧"
     ],
     "quality": "1080P",
-    "episodes": "更6集",
+    "episodes": "更7集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -266,7 +287,7 @@
       "惊悚"
     ],
     "quality": "1080P",
-    "episodes": "更8集",
+    "episodes": "更9集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -351,7 +372,7 @@
       "志怪 #法术"
     ],
     "quality": "1080P",
-    "episodes": "更4集",
+    "episodes": "更5集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -362,27 +383,6 @@
     },
     "quark": null,
     "description": "动漫 真人AI志怪"
-  },
-  {
-    "id": "shashoumami-hanju-2026",
-    "name": "杀手妈咪",
-    "category": "韩剧",
-    "tags": [
-      "剧情",
-      "惊悚"
-    ],
-    "quality": "1080P",
-    "episodes": "更1集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "孔晓振/郑浚远/李相二/成东日",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1nduXuhFEN-emGjxKdEnY-A",
-      "code": "tsum"
-    },
-    "quark": null,
-    "description": "韩剧 惊悚"
   },
   {
     "id": "churenmei-youji",

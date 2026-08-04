@@ -9,7 +9,7 @@
       "冒险"
     ],
     "quality": "1080P",
-    "episodes": "更10集",
+    "episodes": "更12集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -30,7 +30,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更11集",
+    "episodes": "更13集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -51,7 +51,7 @@
       "虐恋"
     ],
     "quality": "1080P",
-    "episodes": "更25集",
+    "episodes": "更26集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -72,7 +72,7 @@
       "动作"
     ],
     "quality": "1080P",
-    "episodes": "更24集",
+    "episodes": "更26集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -202,8 +202,8 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "16集全",
-    "status": "已完结",
+    "episodes": "更7集",
+    "status": "更新中",
     "year": 2026,
     "platform": "",
     "cast": "黄寅烨/李惠利",
@@ -1400,5 +1400,27 @@
     },
     "quark": null,
     "description": "韩剧 恐怖悬疑"
+  },
+  {
+    "id": "chu-e-2026",
+    "name": "除恶",
+    "category": "经典剧",
+    "tags": [
+      "剧情",
+      "悬疑",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "更16集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "",
+      "code": ""
+    },
+    "quark": null,
+    "description": ""
   }
 ]

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -29,6 +30,14 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
+      <Script
+        id="la-51"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html:
+            '(function(){var s=document.createElement("script");s.charset="UTF-8";s.id="LA_COLLECT";s.src="//sdk.51.la/js-sdk-pro.min.js";s.onload=function(){LA.init({id:"3QooyNfWuPPBrKfy",ck:"3QooyNfWuPPBrKfy"})};document.head.appendChild(s);})();',
+        }}
+      />
     </html>
   );
 }

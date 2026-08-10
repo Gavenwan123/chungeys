@@ -9,7 +9,7 @@
       "冒险"
     ],
     "quality": "1080P",
-    "episodes": "更21集",
+    "episodes": "更22集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -30,7 +30,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更4集",
+    "episodes": "更5集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -51,7 +51,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更22集",
+    "episodes": "更24集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -157,7 +157,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更20集",
+    "episodes": "更21集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -165,6 +165,27 @@
     "baidu": {
       "link": "https://pan.baidu.com/s/iamwFfcBxNrOHFksJq5g",
       "code": "fu65"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "renyu-2026",
+    "name": "人鱼",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "悬疑"
+    ],
+    "quality": "1080P",
+    "episodes": "更13集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "刘孜/张开泰/黄杨钿甜/董勇/张帆",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/11lMCG0CUaK-K2B0oE7xvlog",
+      "code": "yvvj"
     },
     "quark": null,
     "description": ""
@@ -265,7 +286,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更8集",
+    "episodes": "更9集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -307,7 +328,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更7集",
+    "episodes": "更8集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -328,7 +349,7 @@
       "喜剧"
     ],
     "quality": "1080P",
-    "episodes": "更9集",
+    "episodes": "更10集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -350,8 +371,8 @@
       "惊悚"
     ],
     "quality": "1080P",
-    "episodes": "更11集",
-    "status": "更新中",
+    "episodes": "12集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
     "cast": "南宫珉/李雪",
@@ -1495,7 +1516,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更2集",
+    "episodes": "更3集",
     "status": "更新中",
     "year": 2026,
     "platform": "",

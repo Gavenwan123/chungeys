@@ -9,7 +9,7 @@
       "冒险"
     ],
     "quality": "1080P",
-    "episodes": "更22集",
+    "episodes": "更23集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -30,7 +30,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更5集",
+    "episodes": "更8集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -51,7 +51,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更24集",
+    "episodes": "更26集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -157,7 +157,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更21集",
+    "episodes": "更22集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -178,7 +178,7 @@
       "悬疑"
     ],
     "quality": "1080P",
-    "episodes": "更13集",
+    "episodes": "更15集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -186,6 +186,26 @@
     "baidu": {
       "link": "https://pan.baidu.com/s/11lMCG0CUaK-K2B0oE7xvlog",
       "code": "yvvj"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "manghe-2026",
+    "name": "盲盒",
+    "category": "热播剧",
+    "tags": [
+      "剧情"
+    ],
+    "quality": "1080P",
+    "episodes": "更16集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "于雯/王艺哲/王泓鑫/卜冠今/孙天",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1ywExzVDz8cL1pxmvsHOWCw",
+      "code": "84g6"
     },
     "quark": null,
     "description": ""
@@ -286,7 +306,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更9集",
+    "episodes": "更10集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -1516,7 +1536,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更3集",
+    "episodes": "更4集",
     "status": "更新中",
     "year": 2026,
     "platform": "",

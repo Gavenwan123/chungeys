@@ -1270,7 +1270,10 @@
       "link": "https://pan.baidu.com/s/1Jh0RzpHTqh8y3jM5ZbjrWg",
       "code": "kyvw"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/0fba2d351f37?pwd=uqjb",
+      "code": "uqjb"
+    },
     "description": "狄仁杰系列电影合集"
   },
   {
@@ -1291,8 +1294,59 @@
       "link": "https://pan.baidu.com/s/1Z3uHkUDIVsNhV-MJfX3BJw",
       "code": "62kv"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/8106b86259d0?pwd=zqNF",
+      "code": "zqNF"
+    },
     "description": "周星驰经典电影合集"
+  },
+  {
+    "id": "mawei-xilie",
+    "name": "漫威系列",
+    "category": "电影",
+    "tags": [
+      "动作",
+      "科幻"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 0,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/19EGk1ClAZIbhjtEV-6Hr1w?pwd=ke5q",
+      "code": "ke5q"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/b7b4381c82eb?pwd=ssGC",
+      "code": "ssGC"
+    },
+    "description": "漫威超级英雄电影合集"
+  },
+  {
+    "id": "daomu-biji-xilie",
+    "name": "盗墓笔记系列",
+    "category": "电影",
+    "tags": [
+      "冒险",
+      "悬疑"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 0,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1Iak66DShFsGXsLDBObjdNw?pwd=xwgp",
+      "code": "xwgp"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/86d62c21e9f0?pwd=ccaa",
+      "code": "ccaa"
+    },
+    "description": "盗墓笔记电影剧集合集"
   },
   {
     "id": "yuantianang-xilie",

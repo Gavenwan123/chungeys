@@ -465,8 +465,8 @@
       "code": "7zcj"
     },
     "quark": {
-      "link": "https://pan.quark.cn/s/47fcac021c4d?pwd=sFDf",
-      "code": "sFDf"
+      "link": "https://pan.quark.cn/s/47fcac021c4d?pwd=sFDT",
+      "code": "sFDT"
     },
     "description": "动漫 AI格斗"
   },
@@ -489,10 +489,52 @@
       "code": "vrby"
     },
     "quark": {
-      "link": "https://pan.quark.cn/s/13feb4430bda?pwd=KmUb",
-      "code": "KmUb"
+      "link": "https://pan.quark.cn/s/13fee7436bda?pwd=RmUb",
+      "code": "RmUb"
     },
     "description": "动漫 真人AI志怪"
+  },
+  {
+    "id": "longmen-2026",
+    "name": "龙门",
+    "category": "动漫",
+    "tags": [],
+    "quality": "1080P",
+    "episodes": "更4集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1ZVh0JUSAy6fij-_kxwlKKg?pwd=wpud",
+      "code": "wpud"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/dce3c89fc12d?pwd=HYLy",
+      "code": "HYLy"
+    },
+    "description": ""
+  },
+  {
+    "id": "shiguang-zhicheng-2026",
+    "name": "蚀光之城",
+    "category": "动漫",
+    "tags": [],
+    "quality": "1080P",
+    "episodes": "更2集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1ea18jH1vKbcNsxAsUkAoPw?pwd=mxyx",
+      "code": "mxyx"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/5dea986e7d9c?pwd=vQ93",
+      "code": "vQ93"
+    },
+    "description": ""
   },
   {
     "id": "churenmei-youji",

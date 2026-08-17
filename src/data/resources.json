@@ -1,5 +1,186 @@
 [
   {
+    "id": "huakai-jinxiu-2026",
+    "name": "花开锦绣",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "更18集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "丁禹兮/邓恩熙/尤靖茹/白澍/吕晓霖",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1PZzUg_FVUpXshewzBoLd0w",
+      "code": "xec9"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "zhongqi-2026",
+    "name": "重器",
+    "category": "热播剧",
+    "tags": [
+      "剧情"
+    ],
+    "quality": "1080P",
+    "episodes": "更16集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "黄景瑜/蒋奇明/于和伟/闫佩伦/张佳宁",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1MnrNed097lC8Dvtzb6fPwA?pwd=cg8s",
+      "code": "cg8s"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/016bc9d4b45e?pwd=Zbqf",
+      "code": "Zbqf"
+    },
+    "description": ""
+  },
+  {
+    "id": "wo-cong-heian-2026",
+    "name": "我从黑暗中走来",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "悬疑"
+    ],
+    "quality": "1080P",
+    "episodes": "更17集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "周憬艺/舒贵林/魏尊",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1jgyYUVKUlOTnp7463Hrvxg?pwd=6jee",
+      "code": "6jee"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/35543b326fad?pwd=EM3K",
+      "code": "EM3K"
+    },
+    "description": ""
+  },
+  {
+    "id": "lindong-xia-de-zuie-2026",
+    "name": "凛冬下的罪恶",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "悬疑"
+    ],
+    "quality": "1080P",
+    "episodes": "26集全",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "张睿/吴昊宸/王大奇/孙之鸿/洪冰瑶",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1D3n_GLH-zIAW6I78ywogpQ?pwd=98xu",
+      "code": "98xu"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/2703bae83c63?pwd=A1ma",
+      "code": "A1ma"
+    },
+    "description": ""
+  },
+  {
+    "id": "zaixia-dagengren-2026",
+    "name": "在下，打更人",
+    "category": "热播剧",
+    "tags": [
+      "短片",
+      "奇幻",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "更20集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "彭禺厶/包晨希/谭晓钰/鲁昊/满瑶",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1o4z8bmUbskGrB91TcoxfPg?pwd=dww3",
+      "code": "dww3"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/7a2405a416d0?pwd=RwhW",
+      "code": "RwhW"
+    },
+    "description": ""
+  },
+  {
+    "id": "shashoumami-hanju-2026",
+    "name": "杀手妈咪",
+    "category": "韩剧",
+    "tags": [
+      "剧情",
+      "惊悚"
+    ],
+    "quality": "1080P",
+    "episodes": "更6集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "孔晓振/郑浚远/李相二/成东日",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1nduXuhFEN-emGjxKdEnY-A",
+      "code": "tsum"
+    },
+    "quark": null,
+    "description": "韩剧 惊悚"
+  },
+  {
+    "id": "maogusr-hanju",
+    "name": "毛骨悚然的恋爱",
+    "category": "韩剧",
+    "tags": [
+      "喜剧",
+      "爱情"
+    ],
+    "quality": "1080P",
+    "episodes": "更10集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "朴恩斌/梁世宗/邕圣祐",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1C_0yn98Bq6a52Wt_XaMEgw",
+      "code": "7363"
+    },
+    "quark": null,
+    "description": "韩剧"
+  },
+  {
+    "id": "gongyu-heifengbao-hanju",
+    "name": "公寓黑风暴",
+    "category": "韩剧",
+    "tags": [
+      "剧情",
+      "喜剧"
+    ],
+    "quality": "1080P",
+    "episodes": "更12集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "池晟/河允庆/朴炳垠/文素利/郑顺元",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1uERe5JKbQkRo4R8FOLCyoQ",
+      "code": "bt69"
+    },
+    "quark": null,
+    "description": "韩剧"
+  },
+  {
     "id": "jiumen2-2026",
     "name": "九门2",
     "category": "热播剧",
@@ -20,27 +201,6 @@
     },
     "quark": null,
     "description": "盗墓笔记宇宙续作"
-  },
-  {
-    "id": "huakai-jinxiu-2026",
-    "name": "花开锦绣",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "古装"
-    ],
-    "quality": "1080P",
-    "episodes": "更16集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "丁禹兮/邓恩熙/尤靖茹/白澍/吕晓霖",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1P2zUg_FVUpXshewzBoLd0w",
-      "code": "xec9"
-    },
-    "quark": null,
-    "description": ""
   },
   {
     "id": "yutingyao-2025",
@@ -277,27 +437,6 @@
     "description": "动漫 动作奇幻"
   },
   {
-    "id": "shashoumami-hanju-2026",
-    "name": "杀手妈咪",
-    "category": "外剧",
-    "tags": [
-      "剧情",
-      "惊悚"
-    ],
-    "quality": "1080P",
-    "episodes": "更6集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "孔晓振/郑浚远/李相二/成东日",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1nduXuhFEN-emGjxKdEnY-A",
-      "code": "tsum"
-    },
-    "quark": null,
-    "description": "韩剧 惊悚"
-  },
-  {
     "id": "geinimengxiang-hanju",
     "name": "给你梦想",
     "category": "外剧",
@@ -335,48 +474,6 @@
     "baidu": {
       "link": "https://pan.baidu.com/s/1x2-yT0DcRgCtCvnYSO-KIg",
       "code": "ggm6"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
-    "id": "maogusr-hanju",
-    "name": "毛骨悚然的恋爱",
-    "category": "外剧",
-    "tags": [
-      "喜剧",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "更9集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "朴恩斌/梁世宗/邕圣祐",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1C_0yn98Bq6a52Wt_XaMEgw",
-      "code": "7363"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
-    "id": "gongyu-heifengbao-hanju",
-    "name": "公寓黑风暴",
-    "category": "外剧",
-    "tags": [
-      "剧情",
-      "喜剧"
-    ],
-    "quality": "1080P",
-    "episodes": "更11集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "池晟/河允庆/朴炳垠/文素利/郑顺元",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1uERe5JKbQkRo4R8FOLCyoQ",
-      "code": "bt69"
     },
     "quark": null,
     "description": "韩剧"

@@ -1,5 +1,219 @@
 [
   {
+    "id": "hanyi-ruxin-2026",
+    "name": "寒衣入心",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "更10集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "何宣林/战宇/温淳棣/黄雯卿/王灿亓",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1Wwgurh-Ff9Qfso-PZDNyjg?pwd=xrub",
+      "code": "xrub"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/9ac3c7ec259b?pwd=33dv",
+      "code": "33dv"
+    },
+    "description": ""
+  },
+  {
+    "id": "kuangtu-2026",
+    "name": "狂徒",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "更15集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "任世豪/吴翎薇/赵茜/杨润杰/杜姚",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1y6xpkKjHrKbp6gb0HCmZJQ?pwd=62xf",
+      "code": "62xf"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/a64b655722f3?pwd=KHGC",
+      "code": "KHGC"
+    },
+    "description": ""
+  },
+  {
+    "id": "huanying-zaici-denglu-2026",
+    "name": "欢迎再次登录",
+    "category": "电影",
+    "tags": [
+      "悬疑",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "贾静雯/白客/曹丹妮/孙美林/王乐",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/18peTxYcbPtnrXFzWnL-A-g?pwd=dw5y",
+      "code": "dw5y"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/d177afe3ff0a?pwd=KQZ2",
+      "code": "KQZ2"
+    },
+    "description": ""
+  },
+  {
+    "id": "juemi-renwu-2026",
+    "name": "绝密任务",
+    "category": "电影",
+    "tags": [
+      "动作",
+      "战争",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "卢靖姗/余文乐/于文文/蒋璐霞/屈菁菁",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1iFIESxMQ1SGOBhZZaNkw5g?pwd=qhth",
+      "code": "qhth"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/65ec38669765?pwd=rSBD",
+      "code": "rSBD"
+    },
+    "description": ""
+  },
+  {
+    "id": "wuweibuzhi-2026",
+    "name": "无微不至",
+    "category": "电影",
+    "tags": [
+      "剧情",
+      "喜剧"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "张世/潘斌龙/王天放/杨紫嫣/王乙",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/17lOTB2hKBbYTf0YwCeASvw?pwd=xg8a",
+      "code": "xg8a"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/0a641a73df3d?pwd=tEA9",
+      "code": "tEA9"
+    },
+    "description": ""
+  },
+  {
+    "id": "hanzhan-1994-2026",
+    "name": "寒战1994",
+    "category": "电影",
+    "tags": [
+      "剧情",
+      "动作",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "吴彦祖/刘俊谦/吴慷仁/谢君豪/王丹妮",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1D1luWHnxIgTXFxunZAmIug",
+      "code": "c1yk"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "biaoren-fengqi-damo-2026",
+    "name": "镖人：风起大漠",
+    "category": "电影",
+    "tags": [
+      "动作",
+      "武侠",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "吴京/谢霆锋/于适/陈丽君/孙艺洲",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1k6lwVqeI_8h-gXgWECx60Q?pwd=zbp8",
+      "code": "zbp8"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "xiaoshi-de-ren-2026",
+    "name": "消失的人",
+    "category": "电影",
+    "tags": [
+      "悬疑",
+      "惊悚",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "郑恺/刘浩存/邱泽/李晨/姜妍",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/10aD99zr4LzqnG-727Af9vA?pwd=xgmy",
+      "code": "xgmy"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/e5fe51a2a3d4?pwd=rHRm",
+      "code": "rHRm"
+    },
+    "description": ""
+  },
+  {
+    "id": "zongshi-yewen-2026",
+    "name": "宗师叶问",
+    "category": "电影",
+    "tags": [
+      "动作"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "杜宇航/周小飞/史蒂文·达兹/张庭菲/李耀景",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/16lxtBwWIkZBPVZBJLWaGpQ?pwd=5jhi",
+      "code": "5jhi"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/c7ed8245bb94?pwd=5Wcp",
+      "code": "5Wcp"
+    },
+    "description": ""
+  },
+  {
     "id": "huakai-jinxiu-2026",
     "name": "花开锦绣",
     "category": "热播剧",

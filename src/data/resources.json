@@ -1,5 +1,124 @@
 [
   {
+    "id": "huakai-jinxiu-2026",
+    "name": "花开锦绣",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "更19集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "丁禹兮/邓恩熙/尤靖茹/白澍/吕晓霖",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1PZzUg_FVUpXshewzBoLd0w",
+      "code": "xec9"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "zhongqi-2026",
+    "name": "重器",
+    "category": "热播剧",
+    "tags": [
+      "剧情"
+    ],
+    "quality": "1080P",
+    "episodes": "更18集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "黄景瑜/蒋奇明/于和伟/闫佩伦/张佳宁",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1MnrNed097lC8Dvtzb6fPwA?pwd=cg8s",
+      "code": "cg8s"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/016bc9d4b45e?pwd=Zbqf",
+      "code": "Zbqf"
+    },
+    "description": ""
+  },
+  {
+    "id": "cangfeng-2026",
+    "name": "藏锋",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "喜剧",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "更4集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "段奕宏/余男/阿如那/李纯/万鹏",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1eeX9LHpczgi-mxMGrxEUlQ?pwd=368g",
+      "code": "368g"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/eb43d8935e14?pwd=yGde",
+      "code": "yGde"
+    },
+    "description": ""
+  },
+  {
+    "id": "wo-cong-heian-2026",
+    "name": "我从黑暗中走来",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "悬疑"
+    ],
+    "quality": "1080P",
+    "episodes": "更19集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "周憬艺/舒贵林/魏尊",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1jgyYUVKUlOTnp7463Hrvxg?pwd=6jee",
+      "code": "6jee"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/35543b326fad?pwd=EM3K",
+      "code": "EM3K"
+    },
+    "description": ""
+  },
+  {
+    "id": "zaixia-dagengren-2026",
+    "name": "在下，打更人",
+    "category": "热播剧",
+    "tags": [
+      "短片",
+      "奇幻",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "24集全",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "彭禺厶/包晨希/谭晓钰/鲁昊/满瑶",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1o4z8bmUbskGrB91TcoxfPg?pwd=dww3",
+      "code": "dww3"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/7a2405a416d0?pwd=RwhW",
+      "code": "RwhW"
+    },
+    "description": ""
+  },
+  {
     "id": "hanyi-ruxin-2026",
     "name": "寒衣入心",
     "category": "热播剧",
@@ -9,7 +128,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更10集",
+    "episodes": "更12集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -33,7 +152,7 @@
       "犯罪"
     ],
     "quality": "1080P",
-    "episodes": "更15集",
+    "episodes": "更16集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -47,6 +166,48 @@
       "code": "KHGC"
     },
     "description": ""
+  },
+  {
+    "id": "wode-ouxiang-zongcai-2026",
+    "name": "我的偶像总裁",
+    "category": "外剧",
+    "tags": [
+      "喜剧",
+      "爱情"
+    ],
+    "quality": "1080P",
+    "episodes": "更5集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "姜勋/金慧姣/车雨闵",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1b4kgz-fLK3oQ_N89iSuweg",
+      "code": "98fh"
+    },
+    "quark": null,
+    "description": ""
+  },
+  {
+    "id": "geinimengxiang-hanju",
+    "name": "给你梦想",
+    "category": "外剧",
+    "tags": [
+      "喜剧",
+      "爱情"
+    ],
+    "quality": "1080P",
+    "episodes": "更11集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "黄寅烨/李惠利",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1hu1DbgYjceKybWF8nd2MtA",
+      "code": "sw7v"
+    },
+    "quark": null,
+    "description": "韩剧"
   },
   {
     "id": "huanying-zaici-denglu-2026",
@@ -214,75 +375,6 @@
     "description": ""
   },
   {
-    "id": "huakai-jinxiu-2026",
-    "name": "花开锦绣",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "古装"
-    ],
-    "quality": "1080P",
-    "episodes": "更18集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "丁禹兮/邓恩熙/尤靖茹/白澍/吕晓霖",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1PZzUg_FVUpXshewzBoLd0w",
-      "code": "xec9"
-    },
-    "quark": null,
-    "description": ""
-  },
-  {
-    "id": "zhongqi-2026",
-    "name": "重器",
-    "category": "热播剧",
-    "tags": [
-      "剧情"
-    ],
-    "quality": "1080P",
-    "episodes": "更16集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "黄景瑜/蒋奇明/于和伟/闫佩伦/张佳宁",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1MnrNed097lC8Dvtzb6fPwA?pwd=cg8s",
-      "code": "cg8s"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/016bc9d4b45e?pwd=Zbqf",
-      "code": "Zbqf"
-    },
-    "description": ""
-  },
-  {
-    "id": "wo-cong-heian-2026",
-    "name": "我从黑暗中走来",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情",
-      "悬疑"
-    ],
-    "quality": "1080P",
-    "episodes": "更17集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "周憬艺/舒贵林/魏尊",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1jgyYUVKUlOTnp7463Hrvxg?pwd=6jee",
-      "code": "6jee"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/35543b326fad?pwd=EM3K",
-      "code": "EM3K"
-    },
-    "description": ""
-  },
-  {
     "id": "lindong-xia-de-zuie-2026",
     "name": "凛冬下的罪恶",
     "category": "热播剧",
@@ -303,31 +395,6 @@
     "quark": {
       "link": "https://pan.quark.cn/s/2703bae83c63?pwd=A1ma",
       "code": "A1ma"
-    },
-    "description": ""
-  },
-  {
-    "id": "zaixia-dagengren-2026",
-    "name": "在下，打更人",
-    "category": "热播剧",
-    "tags": [
-      "短片",
-      "奇幻",
-      "古装"
-    ],
-    "quality": "1080P",
-    "episodes": "更20集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "彭禺厶/包晨希/谭晓钰/鲁昊/满瑶",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1o4z8bmUbskGrB91TcoxfPg?pwd=dww3",
-      "code": "dww3"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/7a2405a416d0?pwd=RwhW",
-      "code": "RwhW"
     },
     "description": ""
   },
@@ -649,27 +716,6 @@
     },
     "quark": null,
     "description": "动漫 动作奇幻"
-  },
-  {
-    "id": "geinimengxiang-hanju",
-    "name": "给你梦想",
-    "category": "外剧",
-    "tags": [
-      "喜剧",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "更10集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "黄寅烨/李惠利",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1hu1DbgYjceKybWF8nd2MtA",
-      "code": "sw7v"
-    },
-    "quark": null,
-    "description": "韩剧"
   },
   {
     "id": "huimeng-hunli-hanju",
@@ -1936,27 +1982,6 @@
     "baidu": {
       "link": "",
       "code": ""
-    },
-    "quark": null,
-    "description": ""
-  },
-  {
-    "id": "wode-ouxiang-zongcai-2026",
-    "name": "我的偶像总裁",
-    "category": "外剧",
-    "tags": [
-      "喜剧",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "更4集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "姜勋/金慧姣/车雨闵",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1b4kgz-fLK3oQ_N89iSuweg",
-      "code": "98fh"
     },
     "quark": null,
     "description": ""

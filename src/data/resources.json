@@ -1212,6 +1212,30 @@
     "description": "狄仁杰系列电影合集"
   },
   {
+    "id": "zhouxingchi-xilie",
+    "name": "周星驰系列电影",
+    "category": "电影",
+    "tags": [
+      "喜剧",
+      "经典"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 0,
+    "platform": "",
+    "cast": "",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1Z3uHkUDIVsNhV-MJfX3BJw",
+      "code": "62kv"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/8106b86259d0?pwd=sqNP",
+      "code": "sqNP"
+    },
+    "description": "周星驰经典电影合集"
+  },
+  {
     "id": "mawei-xilie",
     "name": "漫威系列",
     "category": "电影",

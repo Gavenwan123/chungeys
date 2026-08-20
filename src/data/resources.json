@@ -1,5 +1,77 @@
 [
   {
+    "id": "huakai-jinxiu-2026",
+    "name": "花开锦绣",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "古装"
+    ],
+    "quality": "1080P",
+    "episodes": "更21集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "丁禹兮/邓恩熙/尤靖茹/白澍/吕晓霖",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1BbWi1oVNKG6PsAdobmP-0Q?pwd=pbrd",
+      "code": "pbrd"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/2be5a831fe61?pwd=dB69",
+      "code": "dB69"
+    },
+    "description": ""
+  },
+  {
+    "id": "zhongqi-2026",
+    "name": "重器",
+    "category": "热播剧",
+    "tags": [
+      "剧情"
+    ],
+    "quality": "1080P",
+    "episodes": "更22集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "黄景瑜/蒋奇明/于和伟/闫佩伦/张佳宁",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1MnrNed097lC8Dvtzb6fPwA?pwd=cg8s",
+      "code": "cg8s"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/016bc9d4b45e?pwd=Zbqf",
+      "code": "Zbqf"
+    },
+    "description": ""
+  },
+  {
+    "id": "tade-niepan-2026",
+    "name": "她的涅槃",
+    "category": "热播剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "奇幻"
+    ],
+    "quality": "1080P",
+    "episodes": "更6集",
+    "status": "更新中",
+    "year": 2026,
+    "cast": "方瑾/李嘉豪/王鹤宇/孙莉/黄奕搏",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1N41LCvuVXK_qLOai0OpO-Q?pwd=j2x8",
+      "code": "j2x8"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/b283937899b9?pwd=aRGq",
+      "code": "aRGq"
+    },
+    "platform": "",
+    "description": ""
+  },
+  {
     "id": "women-de-shaonian-shidai2-2026",
     "name": "我们的少年时代2",
     "category": "热播剧",
@@ -7,7 +79,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更10集",
+    "episodes": "更12集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -23,47 +95,99 @@
     "description": ""
   },
   {
-    "id": "huakai-jinxiu-2026",
-    "name": "花开锦绣",
+    "id": "wo-cong-heian-2026",
+    "name": "我从黑暗中走来",
     "category": "热播剧",
     "tags": [
       "剧情",
-      "古装"
+      "爱情",
+      "悬疑"
     ],
     "quality": "1080P",
-    "episodes": "更20集",
+    "episodes": "更23集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
-    "cast": "丁禹兮/邓恩熙/尤靖茹/白澍/吕晓霖",
+    "cast": "周憬艺/舒贵林/魏尊",
     "baidu": {
-      "link": "https://pan.baidu.com/s/1BbWi1oVNKG6PsAdobmP-0Q?pwd=pbrd",
-      "code": "pbrd"
+      "link": "https://pan.baidu.com/s/1jgyYUVKUlOTnp7463Hrvxg?pwd=6jee",
+      "code": "6jee"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/35543b326fad?pwd=EM3K",
+      "code": "EM3K"
+    },
     "description": ""
   },
   {
-    "id": "zhongqi-2026",
-    "name": "重器",
+    "id": "kuangtu-2026",
+    "name": "狂徒",
     "category": "热播剧",
+    "tags": [
+      "剧情",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "更18集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "任世豪/吴翎薇/赵茜/杨润杰/杜姚",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1y6xpkKjHrKbp6gb0HCmZJQ?pwd=62xf",
+      "code": "62xf"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/a64b655722f3?pwd=KHGC",
+      "code": "KHGC"
+    },
+    "description": ""
+  },
+  {
+    "id": "jiating-guanxi-zhengmingshu-2026",
+    "name": "家庭关系证明书",
+    "category": "外剧",
     "tags": [
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更20集",
+    "episodes": "更31集",
     "status": "更新中",
     "year": 2026,
-    "platform": "",
-    "cast": "黄景瑜/蒋奇明/于和伟/闫佩伦/张佳宁",
+    "cast": "朴世荣/韩高恩/林志恩/成伊言/朴率拉",
     "baidu": {
-      "link": "https://pan.baidu.com/s/1MnrNed097lC8Dvtzb6fPwA?pwd=cg8s",
-      "code": "cg8s"
+      "link": "https://pan.baidu.com/s/1inTr-QEh-UzsyRlDfM0gbA?pwd=4t8g",
+      "code": "4t8g"
     },
     "quark": {
-      "link": "https://pan.quark.cn/s/016bc9d4b45e?pwd=Zbqf",
-      "code": "Zbqf"
+      "link": "https://pan.quark.cn/s/1ff35bc35c9e?pwd=XNbw",
+      "code": "XNbw"
     },
+    "platform": "",
+    "description": ""
+  },
+  {
+    "id": "yuwang-de-xianjing-2026",
+    "name": "欲望的陷阱",
+    "category": "外剧",
+    "tags": [
+      "剧情",
+      "犯罪"
+    ],
+    "quality": "1080P",
+    "episodes": "更6集",
+    "status": "更新中",
+    "year": 2026,
+    "cast": "张瑞希/田惠媛/薛正焕/周清晨/尹海英",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1RGqtoh0fV1lUW7LgB0erEA?pwd=ndie",
+      "code": "ndie"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/996d38348f46?pwd=6rC8",
+      "code": "6rC8"
+    },
+    "platform": "",
     "description": ""
   },
   {
@@ -88,31 +212,6 @@
     "quark": {
       "link": "https://pan.quark.cn/s/eb43d8935e14?pwd=yGde",
       "code": "yGde"
-    },
-    "description": ""
-  },
-  {
-    "id": "wo-cong-heian-2026",
-    "name": "我从黑暗中走来",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情",
-      "悬疑"
-    ],
-    "quality": "1080P",
-    "episodes": "更21集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "周憬艺/舒贵林/魏尊",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1jgyYUVKUlOTnp7463Hrvxg?pwd=6jee",
-      "code": "6jee"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/35543b326fad?pwd=EM3K",
-      "code": "EM3K"
     },
     "description": ""
   },
@@ -163,30 +262,6 @@
     "quark": {
       "link": "https://pan.quark.cn/s/9ac3c7ec259b?pwd=33dv",
       "code": "33dv"
-    },
-    "description": ""
-  },
-  {
-    "id": "kuangtu-2026",
-    "name": "狂徒",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "犯罪"
-    ],
-    "quality": "1080P",
-    "episodes": "更17集",
-    "status": "更新中",
-    "year": 2026,
-    "platform": "",
-    "cast": "任世豪/吴翎薇/赵茜/杨润杰/杜姚",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1y6xpkKjHrKbp6gb0HCmZJQ?pwd=62xf",
-      "code": "62xf"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/a64b655722f3?pwd=KHGC",
-      "code": "KHGC"
     },
     "description": ""
   },
@@ -439,7 +514,10 @@
       "link": "https://pan.baidu.com/s/1nduXuhFEN-emGjxKdEnY-A",
       "code": "tsum"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/047b884565d5?pwd=TMD7",
+      "code": "TMD7"
+    },
     "description": "韩剧 惊悚"
   },
   {
@@ -503,7 +581,10 @@
       "link": "https://pan.baidu.com/s/1V8VWsfDlUm1NhfIO2dMB0Q",
       "code": "a5m2"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/16702c9b9e93?pwd=Sqz1",
+      "code": "Sqz1"
+    },
     "description": "盗墓笔记宇宙续作"
   },
   {
@@ -524,7 +605,10 @@
       "link": "https://pan.baidu.com/s/1o9b-WmhM1MJozXH7W07kdA",
       "code": "2dh5"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/348364bd7156?pwd=pr1p",
+      "code": "pr1p"
+    },
     "description": "古装爱情剧"
   },
   {
@@ -545,7 +629,10 @@
       "link": "https://pan.baidu.com/s/1igi7TfeKtpNgFbDbABLN4w",
       "code": "kt7b"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/26bf9778b8c6?pwd=LMzc",
+      "code": "LMzc"
+    },
     "description": "改编自匪我思存小说，民国虐恋剧"
   },
   {
@@ -566,7 +653,10 @@
       "link": "https://pan.baidu.com/s/1sg514-ZHQvotLItTuc9AXA",
       "code": "e4nt"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/b477bb878fc2?pwd=LnpB",
+      "code": "LnpB"
+    },
     "description": "军旅热血剧 爱奇艺"
   },
   {
@@ -588,7 +678,10 @@
       "link": "https://pan.baidu.com/s/1C1Dpxyv71CYv6Y7P5TvTDg",
       "code": "z3ta"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/babc272d2928?pwd=pERd",
+      "code": "pERd"
+    },
     "description": "古装爱情剧"
   },
   {
@@ -600,8 +693,8 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更26集",
-    "status": "更新中",
+    "episodes": "28集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
     "cast": "",
@@ -609,7 +702,10 @@
       "link": "https://pan.baidu.com/s/iamwFfcBxNrOHFksJq5g",
       "code": "fu65"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/f9287a290f2e?pwd=yXCY",
+      "code": "yXCY"
+    },
     "description": ""
   },
   {
@@ -737,7 +833,10 @@
       "link": "https://pan.baidu.com/s/1x2-yT0DcRgCtCvnYSO-KIg",
       "code": "ggm6"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/66acd7fe79aa?pwd=RLnq",
+      "code": "RLnq"
+    },
     "description": "韩剧"
   },
   {

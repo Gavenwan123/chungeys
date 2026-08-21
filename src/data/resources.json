@@ -8,7 +8,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更21集",
+    "episodes": "更23集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -31,7 +31,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更22集",
+    "episodes": "更24集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -56,7 +56,7 @@
       "奇幻"
     ],
     "quality": "1080P",
-    "episodes": "更6集",
+    "episodes": "更8集",
     "status": "更新中",
     "year": 2026,
     "cast": "方瑾/李嘉豪/王鹤宇/孙莉/黄奕搏",
@@ -79,7 +79,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更12集",
+    "episodes": "更14集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -104,8 +104,8 @@
       "悬疑"
     ],
     "quality": "1080P",
-    "episodes": "更23集",
-    "status": "更新中",
+    "episodes": "26集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
     "cast": "周憬艺/舒贵林/魏尊",
@@ -128,8 +128,8 @@
       "犯罪"
     ],
     "quality": "1080P",
-    "episodes": "更18集",
-    "status": "更新中",
+    "episodes": "24集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
     "cast": "任世豪/吴翎薇/赵茜/杨润杰/杜姚",
@@ -151,7 +151,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更31集",
+    "episodes": "更33集",
     "status": "更新中",
     "year": 2026,
     "cast": "朴世荣/韩高恩/林志恩/成伊言/朴率拉",
@@ -175,7 +175,7 @@
       "犯罪"
     ],
     "quality": "1080P",
-    "episodes": "更6集",
+    "episodes": "更9集",
     "status": "更新中",
     "year": 2026,
     "cast": "张瑞希/田惠媛/薛正焕/周清晨/尹海英",
@@ -200,7 +200,7 @@
       "犯罪"
     ],
     "quality": "1080P",
-    "episodes": "更6集",
+    "episodes": "更8集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -250,7 +250,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更13集",
+    "episodes": "更15集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -781,7 +781,7 @@
       "奇幻"
     ],
     "quality": "1080P",
-    "episodes": "更5集",
+    "episodes": "更6集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -790,7 +790,10 @@
       "link": "https://pan.baidu.com/s/1paCsTOrm0Myk2sgF96UkcA",
       "code": "zb9w"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/9592fdf74fe15?pwd=F4zA",
+      "code": "F4zA"
+    },
     "description": "动漫 喜剧动作"
   },
   {
@@ -803,7 +806,7 @@
       "奇幻"
     ],
     "quality": "1080P",
-    "episodes": "更5集",
+    "episodes": "更7集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -812,7 +815,10 @@
       "link": "https://pan.baidu.com/s/1xgB5NP2JFKwnC0tnE_vV-Q",
       "code": "grug"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/980b72527b0d?pwd=JyMa",
+      "code": "JyMa"
+    },
     "description": "动漫 动作奇幻"
   },
   {

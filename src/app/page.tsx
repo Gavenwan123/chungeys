@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react";
 import resources from "@/data/resources.json";
 
-const CATEGORIES = ["全部", "热播剧", "经典剧", "电影", "动漫", "外剧", "小众"];
+const CATEGORIES = ["全部", "热播剧", "经典剧", "电影", "动漫", "外剧", "韩国综艺", "小众"];
 const STATUS_OPTIONS = ["全部", "更新中", "已完结"];
 
 // 拉新推广链接（替换成你自己的推广链接）

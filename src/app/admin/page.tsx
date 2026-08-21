@@ -134,7 +134,7 @@ export default function AdminPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <input placeholder="剧名 *" value={form.name} onChange={(e) => setForm({ ...form, name: e.target.value })} className="px-3 py-2 bg-gray-800 rounded text-sm border border-gray-700" />
               <select value={form.category} onChange={(e) => setForm({ ...form, category: e.target.value })} className="px-3 py-2 bg-gray-800 rounded text-sm border border-gray-700">
-                {["热播剧", "经典剧", "电影", "动漫", "外剧", "小众"].map((c) => <option key={c}>{c}</option>)}
+                {["热播剧", "经典剧", "电影", "动漫", "外剧", "韩国综艺", "小众"].map((c) => <option key={c}>{c}</option>)}
               </select>
               <input placeholder="年份" type="number" value={form.year} onChange={(e) => setForm({ ...form, year: Number(e.target.value) })} className="px-3 py-2 bg-gray-800 rounded text-sm border border-gray-700" />
               <input placeholder="集数 如: 更01集" value={form.episodes} onChange={(e) => setForm({ ...form, episodes: e.target.value })} className="px-3 py-2 bg-gray-800 rounded text-sm border border-gray-700" />

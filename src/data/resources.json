@@ -11,7 +11,7 @@
     "status": "更新中",
     "year": 2026,
     "platform": "",
-    "cast": "周轶/董子凡/吴晶晶/张皓然",
+    "cast": "周铁/董子凡/吴明晶/张皓然",
     "baidu": {
       "link": "https://pan.baidu.com/s/1S5Edxm915-6OmNrgaLsumQ?pwd=1rar",
       "code": "1rar"
@@ -46,6 +46,78 @@
     "description": ""
   },
   {
+    "id": "xuezhan-x-2026",
+    "name": "血战X",
+    "category": "韩国综艺",
+    "tags": [
+      "真人秀"
+    ],
+    "quality": "1080P",
+    "episodes": "更9集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "李尚敏/洪榛浩",
+    "baidu": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/3545379e1868?pwd=ieG3",
+      "code": "ieG3"
+    },
+    "description": "韩国Wavve原创综艺"
+  },
+  {
+    "id": "yuzhou-niangaodian-2026",
+    "name": "宇宙年糕店",
+    "category": "韩国综艺",
+    "tags": [
+      "真人秀"
+    ],
+    "quality": "1080P",
+    "episodes": "更4集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "李恩智/金美贤/李泳知/安宥真",
+    "baidu": null,
+    "quark": null,
+    "description": "韩国tvN综艺"
+  },
+  {
+    "id": "wode-ai-banlv-2026",
+    "name": "我的AI伴侣-奇异恋爱",
+    "category": "韩国综艺",
+    "tags": [
+      "爱情",
+      "真人秀"
+    ],
+    "quality": "1080P",
+    "episodes": "更1集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "旗安84/张度妍/李侑菲",
+    "baidu": null,
+    "quark": null,
+    "description": "韩国SBS综艺"
+  },
+  {
+    "id": "zhongzheng-jiemi-2026",
+    "name": "重症解密",
+    "category": "港台综艺",
+    "tags": [
+      "真人秀"
+    ],
+    "quality": "1080P",
+    "episodes": "更2集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "谭俊彦/陈晓华/林秀怡/梁凯晴/钟凯莹",
+    "baidu": null,
+    "quark": null,
+    "description": "香港综艺"
+  },
+  {
     "id": "huakai-jinxiu-2026",
     "name": "花开锦绣",
     "category": "热播剧",
@@ -54,7 +126,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更25集",
+    "episodes": "更27集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -77,7 +149,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更26集",
+    "episodes": "更28集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -125,7 +197,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更16集",
+    "episodes": "更18集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -246,7 +318,7 @@
       "犯罪"
     ],
     "quality": "1080P",
-    "episodes": "更10集",
+    "episodes": "更11集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -296,7 +368,7 @@
       "古装"
     ],
     "quality": "1080P",
-    "episodes": "更15集",
+    "episodes": "更17集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -326,7 +398,7 @@
     "platform": "",
     "cast": "姜勋/金慧姣/车雨闵",
     "baidu": {
-      "link": "https://pan.baidu.com/s/1b4kgz-fLK3oQ_N89iSuweg",
+      "link": "https://pan.baidu.com/s/1b4kgz-PlK3oQ_N89iSuweg?pwd=98fh",
       "code": "98fh"
     },
     "quark": null,
@@ -551,7 +623,7 @@
       "惊悚"
     ],
     "quality": "1080P",
-    "episodes": "更6集",
+    "episodes": "更7集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -575,7 +647,7 @@
       "爱情"
     ],
     "quality": "1080P",
-    "episodes": "更10集",
+    "episodes": "更11集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
@@ -584,7 +656,10 @@
       "link": "https://pan.baidu.com/s/1C_0yn98Bq6a52Wt_XaMEgw",
       "code": "7363"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/37b0dd7975e0?pwd=1pZd",
+      "code": "1pZd"
+    },
     "description": "韩剧"
   },
   {
@@ -596,8 +671,8 @@
       "喜剧"
     ],
     "quality": "1080P",
-    "episodes": "更12集",
-    "status": "更新中",
+    "episodes": "12集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
     "cast": "池晟/河允庆/朴炳垠/文素利/郑顺元",
@@ -743,9 +818,9 @@
     "status": "已完结",
     "year": 2026,
     "platform": "",
-    "cast": "",
+    "cast": "田曦薇/胡一天/赖伟明/安沺",
     "baidu": {
-      "link": "https://pan.baidu.com/s/iamwFfcBxNrOHFksJq5g",
+      "link": "https://pan.baidu.com/s/1amwrPfcBx1NrOHPksJq5gw?pwd=fu65",
       "code": "fu65"
     },
     "quark": {
@@ -789,7 +864,7 @@
     "platform": "",
     "cast": "于雯/王艺哲/王泓鑫/卜冠今/孙天",
     "baidu": {
-      "link": "https://pan.baidu.com/s/1ywExzVDz8cL1pxmvsHOWCw",
+      "link": "https://pan.baidu.com/s/1ywExzVDz8cLIpxmvsHOWCw?pwd=84g6",
       "code": "84g6"
     },
     "quark": null,
@@ -808,9 +883,9 @@
     "status": "已完结",
     "year": 2026,
     "platform": "",
-    "cast": "",
+    "cast": "李汶翰/鹤男/李泊文/徐新驰/李牧芸",
     "baidu": {
-      "link": "https://pan.baidu.com/s/17U0bb502ZwtFhoa2ZjCtYA",
+      "link": "https://pan.baidu.com/s/17U0bb5O2Zwtfhoa2zjCtYA?pwd=pyuj",
       "code": "pyuj"
     },
     "quark": null,
@@ -837,7 +912,7 @@
       "code": "zb9w"
     },
     "quark": {
-      "link": "https://pan.quark.cn/s/9592fdf74fe15?pwd=F4zA",
+      "link": "https://pan.quark.cn/s/9592fd74fe15?pwd=F4zA",
       "code": "F4zA"
     },
     "description": "动漫 喜剧动作"
@@ -862,8 +937,8 @@
       "code": "grug"
     },
     "quark": {
-      "link": "https://pan.quark.cn/s/980b72527b0d?pwd=JyMa",
-      "code": "JyMa"
+      "link": "https://pan.quark.cn/s/986b72527b6d?pwd=JyMm",
+      "code": "JyMm"
     },
     "description": "动漫 动作奇幻"
   },
@@ -1472,14 +1547,14 @@
       "犯罪"
     ],
     "quality": "1080P",
-    "episodes": "更16集",
-    "status": "更新中",
+    "episodes": "16集全",
+    "status": "已完结",
     "year": 2026,
     "platform": "",
-    "cast": "",
+    "cast": "任素汐/王骁/蔡文静/李泽锋/王宥",
     "baidu": {
-      "link": "",
-      "code": ""
+      "link": "https://pan.baidu.com/s/1j88hGakN1r_Sp4TRaE-qvQ?pwd=zpsm",
+      "code": "zpsm"
     },
     "quark": null,
     "description": ""
@@ -1492,16 +1567,19 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更5集",
+    "episodes": "更6集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
-    "cast": "安普贤/郑恩彩/黄相准/金伸比/俞承豪",
+    "cast": "安普贤/郑恩彩/姜相准/金伸比/俞承豪",
     "baidu": {
       "link": "https://pan.baidu.com/s/1wgjy7lmRdrram3NRT7dqUQ",
       "code": "6tsv"
     },
-    "quark": null,
+    "quark": {
+      "link": "https://pan.quark.cn/s/3b6a404a18cf?pwd=KZQM",
+      "code": "KZQM"
+    },
     "description": ""
   }
 ]

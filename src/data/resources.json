@@ -1,5 +1,54 @@
 [
   {
+    "id": "wudian-2026",
+    "name": "污点",
+    "category": "电影",
+    "tags": [
+      "喜剧",
+      "恐怖"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "瑛法·瓦拉哈/莎露彩·查金哈/杰迪帕·迪拉朋帕",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1k1jN616TWuYJ0fDa4530uA?pwd=i78c",
+      "code": "i78c"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/30bbfab35499?pwd=MvVq",
+      "code": "MvVq"
+    },
+    "description": ""
+  },
+  {
+    "id": "qianmenzhiqulongduobao-2026",
+    "name": "千门之群龙夺宝",
+    "category": "电影",
+    "tags": [
+      "剧情",
+      "悬疑",
+      "奇幻"
+    ],
+    "quality": "1080P",
+    "episodes": "",
+    "status": "已完结",
+    "year": 2026,
+    "platform": "",
+    "cast": "薛闻君/刘凡菲/王俊棠/申琦/许子",
+    "baidu": {
+      "link": "https://pan.baidu.com/s/1M3LF03DrwRa-MA-idGBqpA?pwd=db78",
+      "code": "db78"
+    },
+    "quark": {
+      "link": "https://pan.quark.cn/s/3ac561799dd2?pwd=JYsB",
+      "code": "JYsB"
+    },
+    "description": ""
+  },
+  {
     "id": "zhuatewu-2026",
     "name": "抓特务",
     "category": "电影",

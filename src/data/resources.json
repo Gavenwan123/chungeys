@@ -800,55 +800,6 @@
     "description": "军旅热血剧 爱奇艺"
   },
   {
-    "id": "zhaoyanggongzhu-2026",
-    "name": "昭阳公主",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情",
-      "古装"
-    ],
-    "quality": "1080P",
-    "episodes": "18集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "李宏毅/孔雪儿/刘旭威/林小宅",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1C1Dpxyv71CYv6Y7P5TvTDg",
-      "code": "z3ta"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/babc272d2928?pwd=pERd",
-      "code": "pERd"
-    },
-    "description": "古装爱情剧"
-  },
-  {
-    "id": "tiancai-nvyou-2026",
-    "name": "天才，女友",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "28集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "田曦薇/胡一天/赖伟明/安沺",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1amwrPfcBx1NrOHPksJq5gw?pwd=fu65",
-      "code": "fu65"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/f9287a290f2e?pwd=yXCY",
-      "code": "yXCY"
-    },
-    "description": ""
-  },
-  {
     "id": "renyu-2026",
     "name": "人鱼",
     "category": "热播剧",
@@ -885,27 +836,6 @@
     "baidu": {
       "link": "https://pan.baidu.com/s/1ywExzVDz8cLIpxmvsHOWCw?pwd=84g6",
       "code": "84g6"
-    },
-    "quark": null,
-    "description": ""
-  },
-  {
-    "id": "yeyuji-2026",
-    "name": "夜语记",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "24集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "李汶翰/鹤男/李泊文/徐新驰/李牧芸",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/17U0bb5O2Zwtfhoa2zjCtYA?pwd=pyuj",
-      "code": "pyuj"
     },
     "quark": null,
     "description": ""
@@ -1225,114 +1155,6 @@
     "description": "民国探案剧 腾讯视频 三集一案"
   },
   {
-    "id": "datang-miwu-2025",
-    "name": "大唐迷雾",
-    "category": "热播剧",
-    "tags": [
-      "古装",
-      "悬疑",
-      "探案"
-    ],
-    "quality": "1080P",
-    "episodes": "25集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "冯绍峰/邬君梅",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1yVtVVEwxlQUa5PO3XwdP5Q",
-      "code": "enbm"
-    },
-    "quark": null,
-    "description": "古装悬疑剧 狄仁杰探案"
-  },
-  {
-    "id": "yegougutou-2026",
-    "name": "野狗骨头",
-    "category": "热播剧",
-    "tags": [
-      "爱情",
-      "青春",
-      "2026"
-    ],
-    "quality": "1080P",
-    "episodes": "32集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "宋威龙/张婧仪",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/11-VHhJKbkSpU3dYEEs84FQ",
-      "code": "c5mm"
-    },
-    "quark": null,
-    "description": "又名莫道桑榆晚 芒果TV"
-  },
-  {
-    "id": "jianchaguan-hanju",
-    "name": "检察官室的提案",
-    "category": "外剧",
-    "tags": [
-      "韩剧",
-      "律政"
-    ],
-    "quality": "1080P",
-    "episodes": "10集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1jvr5zI23AKq4GmnhIAUcQA",
-      "code": "tb3q"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
-    "id": "mingtian-shangban-hanju",
-    "name": "明天也要上班",
-    "category": "外剧",
-    "tags": [
-      "韩剧",
-      "职场"
-    ],
-    "quality": "1080P",
-    "episodes": "12集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "姜美娜",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1O5DgZoezv_6Y-YXs2rVA1Q",
-      "code": "6rfq"
-    },
-    "quark": null,
-    "description": "韩剧 姜美娜主演"
-  },
-  {
-    "id": "jintewu-hanju",
-    "name": "金特务·本色回归",
-    "category": "外剧",
-    "tags": [
-      "韩剧",
-      "动作",
-      "悬疑"
-    ],
-    "quality": "1080P",
-    "episodes": "10集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1Fb4YyOJqWJU5Bnrjpp5Hhg",
-      "code": "e65c"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
     "id": "direnjie-xilie",
     "name": "狄仁杰系列电影",
     "category": "电影",
@@ -1430,28 +1252,6 @@
     "description": "盗墓笔记电影剧集合集"
   },
   {
-    "id": "xuanan-2025",
-    "name": "悬案",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "悬疑",
-      "犯罪"
-    ],
-    "quality": "1080P",
-    "episodes": "17集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "王传君/江奇霖/杨烁/郎月婷/岳云鹏",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1mjCjUmDR_M1wq9SR51hvMQ",
-      "code": "seqj"
-    },
-    "quark": null,
-    "description": "悬疑犯罪剧"
-  },
-  {
     "id": "sudilianren-taiju",
     "name": "宿敌恋人",
     "category": "外剧",
@@ -1472,111 +1272,6 @@
     },
     "quark": null,
     "description": "泰剧 同性爱情"
-  },
-  {
-    "id": "aiqing-meiyoushenhua-2025",
-    "name": "爱情没有神话",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "37集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "唐嫣/赵又廷/杨采钰/冯绍峰",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/11-pn6zJgsVQp3MufmiSEnA",
-      "code": "y9i6"
-    },
-    "quark": null,
-    "description": "都市爱情剧"
-  },
-  {
-    "id": "chunri-zhidi-2025",
-    "name": "春日之地",
-    "category": "热播剧",
-    "tags": [
-      "悬疑"
-    ],
-    "quality": "1080P",
-    "episodes": "24集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "赵仁杰/袁姗姗/漆昱辰/丁嘉毅",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/16GRCZK3niBDnbG3ND6mVtw",
-      "code": "xjma"
-    },
-    "quark": null,
-    "description": "悬疑剧"
-  },
-  {
-    "id": "niai-chenghe-2025",
-    "name": "逆爱成河",
-    "category": "热播剧",
-    "tags": [
-      "剧情",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "24集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "泽/韩乐瑶/王灿亓/王予",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1q_97xAgzeg63fujXsQoHNQ",
-      "code": "rj5c"
-    },
-    "quark": null,
-    "description": "都市爱情剧"
-  },
-  {
-    "id": "duoming-xuyuan-hanju",
-    "name": "夺命许愿",
-    "category": "外剧",
-    "tags": [
-      "剧情",
-      "恐怖"
-    ],
-    "quality": "1080P",
-    "episodes": "8集全",
-    "status": "已完结",
-    "year": 2025,
-    "platform": "",
-    "cast": "昭映/姜美娜/白善浩/玄宇锡",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1wvdr54elVEWkt-5xM-qUKQ",
-      "code": "udkd"
-    },
-    "quark": null,
-    "description": "韩剧 恐怖悬疑"
-  },
-  {
-    "id": "chu-e-2026",
-    "name": "除恶",
-    "category": "经典剧",
-    "tags": [
-      "剧情",
-      "悬疑",
-      "犯罪"
-    ],
-    "quality": "1080P",
-    "episodes": "16集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "任素汐/王骁/蔡文静/李泽锋/王宥",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1j88hGakN1r_Sp4TRaE-qvQ?pwd=zpsm",
-      "code": "zpsm"
-    },
-    "quark": null,
-    "description": ""
   },
   {
     "id": "caifa-xingjing-s2-2026",

@@ -424,27 +424,6 @@
     "description": ""
   },
   {
-    "id": "geinimengxiang-hanju",
-    "name": "给你梦想",
-    "category": "外剧",
-    "tags": [
-      "喜剧",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "12集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "黄寅烨/李惠利",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1hu1DbgYjceKybWF8nd2MtA",
-      "code": "sw7v"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
     "id": "huanying-zaici-denglu-2026",
     "name": "欢迎再次登录",
     "category": "电影",
@@ -658,51 +637,6 @@
     "description": "韩剧 惊悚"
   },
   {
-    "id": "maogusr-hanju",
-    "name": "毛骨悚然的恋爱",
-    "category": "韩剧",
-    "tags": [
-      "喜剧",
-      "爱情"
-    ],
-    "quality": "1080P",
-    "episodes": "12集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "朴恩斌/梁世宗/邕圣祐",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1C_0yn98Bq6a52Wt_XaMEgw",
-      "code": "7363"
-    },
-    "quark": {
-      "link": "https://pan.quark.cn/s/37b0dd7975e0?pwd=1pZd",
-      "code": "1pZd"
-    },
-    "description": "韩剧"
-  },
-  {
-    "id": "gongyu-heifengbao-hanju",
-    "name": "公寓黑风暴",
-    "category": "韩剧",
-    "tags": [
-      "剧情",
-      "喜剧"
-    ],
-    "quality": "1080P",
-    "episodes": "12集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "池晟/河允庆/朴炳垠/文素利/郑顺元",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1uERe5JKbQkRo4R8FOLCyoQ",
-      "code": "bt69"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
     "id": "jiumen2-2026",
     "name": "九门2",
     "category": "热播剧",
@@ -913,72 +847,6 @@
       "link": "https://pan.quark.cn/s/66acd7fe79aa?pwd=RLnq",
       "code": "RLnq"
     },
-    "description": "韩剧"
-  },
-  {
-    "id": "hunyin-zhihou-hanju",
-    "name": "婚姻之后",
-    "category": "外剧",
-    "tags": [
-      "剧情",
-      "爱情",
-      "惊悚"
-    ],
-    "quality": "1080P",
-    "episodes": "12集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "南宫珉/李雪",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/14X6ahDyNcojmd6yDB2sTPg",
-      "code": "nw74"
-    },
-    "quark": null,
-    "description": "韩剧"
-  },
-  {
-    "id": "sharengzhe-gouwu2-hanju",
-    "name": "杀人者的购物中心2",
-    "category": "外剧",
-    "tags": [
-      "剧情",
-      "动作",
-      "悬疑",
-      "惊悚"
-    ],
-    "quality": "1080P",
-    "episodes": "8集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "李栋旭/金慧埈/赵汉善/玄理",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1Q-cu6oXhrCF8LB-uKvPEzw",
-      "code": "sb2x"
-    },
-    "quark": null,
-    "description": "韩剧 杀人者的购物中心第二季"
-  },
-  {
-    "id": "zuiyuai-hanju",
-    "name": "罪与爱",
-    "category": "外剧",
-    "tags": [
-      "短片",
-      "同性"
-    ],
-    "quality": "1080P",
-    "episodes": "10集全",
-    "status": "已完结",
-    "year": 2026,
-    "platform": "",
-    "cast": "金贤叙/郑明哲",
-    "baidu": {
-      "link": "https://pan.baidu.com/s/1jcYGkulnR65vgKIM9W8d_w",
-      "code": "gwxm"
-    },
-    "quark": null,
     "description": "韩剧"
   },
   {

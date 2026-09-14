@@ -1,5 +1,27 @@
 [
   {
+    "id": "aiqinglaile-2026",
+    "name": "爱情来了",
+    "category": "韩剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "奇幻"
+    ],
+    "quality": "1080P",
+    "episodes": "更16集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "安喜延/河锡辰",
+    "baidu": {},
+    "quark": {
+      "link": "https://pan.quark.cn/s/c2c8aa7ff0c2?pwd=JZBy",
+      "code": "JZBy"
+    },
+    "description": ""
+  },
+  {
     "id": "wudian-2026",
     "name": "污点",
     "category": "电影",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "fengleba-2026",
+    "name": "疯了吧！这座城市的人都在找死",
+    "category": "动漫",
+    "tags": [],
+    "quality": "1080P",
+    "episodes": "更10集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "",
+    "baidu": {},
+    "quark": {
+      "link": "https://pan.quark.cn/s/ef0a7dbf9588?pwd=avkD",
+      "code": "avkD"
+    },
+    "description": ""
+  },
+  {
+    "id": "yuexiazhiying-2026",
+    "name": "月下之影",
+    "category": "泰剧",
+    "tags": [
+      "剧情",
+      "爱情",
+      "同性"
+    ],
+    "quality": "1080P",
+    "episodes": "更7集",
+    "status": "更新中",
+    "year": 2026,
+    "platform": "",
+    "cast": "塔诵·格林尼恩/帕特拉帕·博拉查达苏皖",
+    "baidu": {},
+    "quark": {
+      "link": "https://pan.quark.cn/s/8858fd2db43a?pwd=k9Gp",
+      "code": "k9Gp"
+    },
+    "description": ""
+  },
+  {
     "id": "sanzhouzhou-zaowuzhuwanjia-2026",
     "name": "三角洲：造物主玩家",
     "category": "动漫",
@@ -126,7 +166,7 @@
       "剧情"
     ],
     "quality": "1080P",
-    "episodes": "更7集",
+    "episodes": "更8集",
     "status": "更新中",
     "year": 2026,
     "platform": "",
